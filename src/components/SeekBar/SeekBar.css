@@ -1,0 +1,24 @@
+.curve-seek-bar-level {
+  width: 250px;
+  height: auto;
+  touch-action: none;
+  user-select: none;
+  -webkit-user-drag: none;
+  -khtml-user-drag: none;
+  -moz-user-drag: none;
+  -o-user-drag: none;
+}
+
+.curve-seek-bar-pin {
+  pointer-events: none;
+  width: 45px;
+  height: auto;
+  touch-action: none;
+  user-select: none;
+  -webkit-user-drag: none;
+  -khtml-user-drag: none;
+  -moz-user-drag: none;
+  -o-user-drag: none;
+  position: relative;
+  top: -102px;
+}
